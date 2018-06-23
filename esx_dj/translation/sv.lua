@@ -1,5 +1,5 @@
 Locales['sv'] = {
-  	['marker'] = '~b~Tryck på ~INPUT_CONTEXT~ för att vara Discojocke',
+  	['marker'] = '~b~Tryck på ~INPUT_CONTEXT~ för att vara dj',
   	['playlist'] = 'Spelista',
   	['animations'] = 'animationer',
   	['dj'] = 'Dj',
